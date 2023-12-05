@@ -1,7 +1,7 @@
 {
-  "name": "petbook-web",
+  "name": "string-junk",
   "version": "0.1.0",
-  "description": "This is going to read kind of like a diary. I need to make some portfolio projects. I am starting here.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "DEVELOPMENT=true tsc && node ./dist/index.js",
